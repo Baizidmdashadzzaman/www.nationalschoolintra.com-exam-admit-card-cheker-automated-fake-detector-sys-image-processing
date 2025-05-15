@@ -8,6 +8,10 @@
 
 ![Image](4.jpg?raw=true "Image")
 
+![Image](5.jpg?raw=true "Image")
+
+![Image](6.jpg?raw=true "Image")
+
 # Detailed Description:
 
 Nationalschoolintra-AdmitSentry is a specialized security system designed for the Unversity and School that leverages advanced image processing and machine learning techniques to validate exam admit cards. Its primary objective is to detect counterfeit or tampered admit cards and enforce strict disciplinary measures, including automatic expulsion procedures for students found using fake documents. Below are the key aspects and functionalities of the project:
